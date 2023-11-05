@@ -1,6 +1,6 @@
 package main
 
-func main (){
-	nome := 'Sérgio'
-	println("Testando o Go! ", nome)
+func main() {
+
+	println("Testando o Go! ")
 }
